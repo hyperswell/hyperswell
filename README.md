@@ -1,4 +1,4 @@
-# HyperSwell - an open source reverse ETL software
+# HyperSwell - an open source reverse ETL platform
 
 We are excited to annonce HyperSwell - an open source reverse ETL platform. 
 We are starting with a simple subset of features: moving data from your favorite DWH (Snowflake, BigQuery, RedShift) to your favorite business tools (Slack, Salesforce, Intercom, etc).
